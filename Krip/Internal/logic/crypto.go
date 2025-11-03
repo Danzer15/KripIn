@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-func Logic() {
+func ConvertLogic() {
 	reader := bufio.NewReader(os.Stdin)
 
 	fmt.Print("Input text : ")

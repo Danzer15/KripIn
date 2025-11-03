@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("---Program Pertama Saya---")
-	logic.Logic()
+	fmt.Println("---KripIn---")
+	logic.ConvertLogic()
 
 }
